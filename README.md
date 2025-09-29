@@ -1,3 +1,3 @@
-Nombre: Abigail Alexandra Canizales Rivas
-Carnet: 20255693
-Sección: 1
+- Nombre: Abigail Alexandra Canizales Rivas
+- Carnet: 20255693
+- Sección: 1
